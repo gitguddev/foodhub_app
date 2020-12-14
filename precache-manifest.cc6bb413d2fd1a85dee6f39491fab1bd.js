@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fdcc8f737c671357d20ab3799a7ac47",
+    "revision": "8288943ed5c0b52e2fdff9f1d418968a",
     "url": "/foodhub_app/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodhub_app/static/css/7.e780d43b.chunk.css"
   },
   {
-    "revision": "cffd5a137d40635c1c08",
+    "revision": "6b412101b32e588de794",
     "url": "/foodhub_app/static/css/main.b4f7b935.chunk.css"
   },
   {
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodhub_app/static/js/9.982a1d05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cffd5a137d40635c1c08",
-    "url": "/foodhub_app/static/js/main.f12e7e68.chunk.js"
+    "revision": "6b412101b32e588de794",
+    "url": "/foodhub_app/static/js/main.e51009a4.chunk.js"
   },
   {
     "revision": "0dd86c9eabd9279c1857",
