@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bed0a276798e9afed1740a99c8ecb973",
+    "revision": "38099a058adbe5a2e0babca89e84343e",
     "url": "/foodhub_app/index.html"
   },
   {
-    "revision": "fc01b3845c7aaaca12d4",
+    "revision": "e8ab59675aec5303d026",
     "url": "/foodhub_app/static/css/11.1690f6d7.chunk.css"
   },
   {
-    "revision": "01a4b09375a8ed02f162",
+    "revision": "3e42d154d8a1c6d8a57a",
     "url": "/foodhub_app/static/css/7.e780d43b.chunk.css"
   },
   {
-    "revision": "4b9e6fce896c15cf8c82",
+    "revision": "71d30ac584a674b75fe9",
     "url": "/foodhub_app/static/css/main.b4f7b935.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodhub_app/static/js/10.24c1f3bd.chunk.js"
   },
   {
-    "revision": "fc01b3845c7aaaca12d4",
-    "url": "/foodhub_app/static/js/11.ef6150c4.chunk.js"
+    "revision": "e8ab59675aec5303d026",
+    "url": "/foodhub_app/static/js/11.25ededf8.chunk.js"
   },
   {
     "revision": "8005f9e0d073037c44db",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodhub_app/static/js/22.a9d00fa0.chunk.js"
   },
   {
-    "revision": "094b4bdf0113c329a512",
-    "url": "/foodhub_app/static/js/23.31bb88e1.chunk.js"
+    "revision": "455246f938abc2d11aa5",
+    "url": "/foodhub_app/static/js/23.3f154cb0.chunk.js"
   },
   {
     "revision": "82ad481254ccabb9a60d",
@@ -144,8 +144,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodhub_app/static/js/6.b8d77737.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01a4b09375a8ed02f162",
-    "url": "/foodhub_app/static/js/7.413a2742.chunk.js"
+    "revision": "3e42d154d8a1c6d8a57a",
+    "url": "/foodhub_app/static/js/7.1cee3cb8.chunk.js"
   },
   {
     "revision": "0ba304a82c31d8c22c5f",
@@ -164,12 +164,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodhub_app/static/js/9.982a1d05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b9e6fce896c15cf8c82",
-    "url": "/foodhub_app/static/js/main.ca9e7792.chunk.js"
+    "revision": "71d30ac584a674b75fe9",
+    "url": "/foodhub_app/static/js/main.066f6945.chunk.js"
   },
   {
-    "revision": "ef75db5258708886cb19",
-    "url": "/foodhub_app/static/js/runtime-main.d42ed011.js"
+    "revision": "0dd86c9eabd9279c1857",
+    "url": "/foodhub_app/static/js/runtime-main.d222f1e3.js"
   },
   {
     "revision": "b15acc02698496377328311b6bc9edb4",
