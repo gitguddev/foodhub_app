@@ -7,8 +7,8 @@
     "static/js/2.5954b728.chunk.js": "/foodhub_app/static/js/2.5954b728.chunk.js",
     "static/js/2.5954b728.chunk.js.map": "/foodhub_app/static/js/2.5954b728.chunk.js.map",
     "main.css": "/foodhub_app/static/css/main.b4f7b935.chunk.css",
-    "main.js": "/foodhub_app/static/js/main.066f6945.chunk.js",
-    "main.js.map": "/foodhub_app/static/js/main.066f6945.chunk.js.map",
+    "main.js": "/foodhub_app/static/js/main.6e76f4e3.chunk.js",
+    "main.js.map": "/foodhub_app/static/js/main.6e76f4e3.chunk.js.map",
     "runtime-main.js": "/foodhub_app/static/js/runtime-main.d222f1e3.js",
     "runtime-main.js.map": "/foodhub_app/static/js/runtime-main.d222f1e3.js.map",
     "static/js/5.04e429cc.chunk.js": "/foodhub_app/static/js/5.04e429cc.chunk.js",
@@ -60,7 +60,7 @@
     "static/js/27.4c29835d.chunk.js": "/foodhub_app/static/js/27.4c29835d.chunk.js",
     "static/js/27.4c29835d.chunk.js.map": "/foodhub_app/static/js/27.4c29835d.chunk.js.map",
     "index.html": "/foodhub_app/index.html",
-    "precache-manifest.4cfa94c67412b55964b8536d96b73215.js": "/foodhub_app/precache-manifest.4cfa94c67412b55964b8536d96b73215.js",
+    "precache-manifest.ac09879f2c3b285d72c9773d6797d44b.js": "/foodhub_app/precache-manifest.ac09879f2c3b285d72c9773d6797d44b.js",
     "service-worker.js": "/foodhub_app/service-worker.js",
     "static/css/11.1690f6d7.chunk.css.map": "/foodhub_app/static/css/11.1690f6d7.chunk.css.map",
     "static/css/7.e780d43b.chunk.css.map": "/foodhub_app/static/css/7.e780d43b.chunk.css.map",
@@ -90,6 +90,6 @@
     "static/js/runtime-main.d222f1e3.js",
     "static/js/6.b8d77737.chunk.js",
     "static/css/main.b4f7b935.chunk.css",
-    "static/js/main.066f6945.chunk.js"
+    "static/js/main.6e76f4e3.chunk.js"
   ]
 }

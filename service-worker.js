@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/foodhub_app/precache-manifest.4cfa94c67412b55964b8536d96b73215.js"
+  "/foodhub_app/precache-manifest.ac09879f2c3b285d72c9773d6797d44b.js"
 );
 
 self.addEventListener('message', (event) => {
