@@ -1,0 +1,1 @@
+{"version":3,"sources":["fonts/Kanit-Regular.ttf"],"names":["module","exports"],"mappings":"wFAAAA,EAAOC,QAAU,IAA0B","file":"static/js/26.cc35cdd5.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Kanit-Regular.b935eb67.ttf\";"],"sourceRoot":""}
